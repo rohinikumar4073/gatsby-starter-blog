@@ -34,8 +34,8 @@ circle {
             stroke-dasharray:100;  
         }
         100% {
-            stroke-dashoffset:100;
-            stroke-dasharray:0;
+            stroke-dashoffset:0;
+            stroke-dasharray:100;
         }
 }
 ```
