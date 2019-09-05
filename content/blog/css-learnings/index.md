@@ -28,3 +28,8 @@ transform:perspective(60px);
 ``
 background-size:cover;
 ``
+## Toggle in JavaScript
+The JAVASCRIP provides API to toggle a class in the DOM Node. This would help us in the use cases of toggling a class on A DOM. It also accepts second parameter which is a condition to execute the toggle.
+``
+domNode.classList.toggle('hover', true);
+``
