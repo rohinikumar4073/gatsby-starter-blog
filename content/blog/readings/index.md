@@ -9,7 +9,7 @@ I was always curious to know how an object has acquired certain price. This book
 
 # How a human made resource acquire value ?
 
-Humans uses natuaral resources to create something new. Normally man made resources has only usage. They acquire value as they try to exchange it with some other items. This exchange rate could be different based on the various factors.
+Humans uses natural resources to create something new. Normally man made resources has only usage. They acquire value as they try to exchange it with some other items. This exchange rate could be different based on the various factors.
 The factors include
 1. How much time effort is needed to make the items ?
 2. What is the cost of the input resources for this resource
