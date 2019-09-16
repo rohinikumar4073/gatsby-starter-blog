@@ -4,7 +4,7 @@ date: "2019-09-14"
 description: "Drawing overlapping ARCS"
 ---
 
-WEBGL has a JavaScript API that will draw on canvas in 3D world. It uses GPU of the native machine. Rendering is an energy consuming process and using the native GPU might help in being efficient.
+WEBGL has   a JavaScript API that will draw on canvas in 3D world. It uses GPU of the native machine. Rendering is an energy consuming process and using the native GPU might help in being efficient.
 
 Recently a collegue has an interesting issue in the space.The issue is very tedious to debug as the code is in WEBGL JavaScript API. It has lot of new API's. 
 
