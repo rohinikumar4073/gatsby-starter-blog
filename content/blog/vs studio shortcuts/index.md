@@ -7,7 +7,6 @@ description: "VS Studio Code short cuts"
 I am now a days coding using just the keyboard avoiding mouse a little as possible. 
 Here are the list of short cuts.
 
-Shortcuts
 ## Windows
 1. Ctrl + f -> to Find 
 2. Esc to close find bar
@@ -16,7 +15,7 @@ Shortcuts
 5. Ctrl + D => To select a word
 6. Alt  + UP => move up
 7. Alt + Shift + UP => Duplicate
-    
+
 ## MAC
 1. Cmd + f -> to Find 
 2. Esc to close find bar
