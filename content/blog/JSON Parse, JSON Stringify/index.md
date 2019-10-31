@@ -1,5 +1,5 @@
 ---
-title: JSON Parse, JSON Stringify
+title: JSON Parse, JSON Stringify & Flex box margins
 date: "2019-10-31"
 description: "Recent learnings"
 ---
@@ -23,7 +23,7 @@ Both functions are working for the conditional statements. Its not working if we
 
 https://jsbin.com/yotoyiy/2/edit?html,css,js,console
 
-# Margin-right
+# Flex box Margin right and  left
 
 Today I have noticed in a flex negative values of margins will increase the width and the positove values will reduce the width of the flex box.
 https://codepen.io/rohinikumar4073/pen/qBBVrVG
