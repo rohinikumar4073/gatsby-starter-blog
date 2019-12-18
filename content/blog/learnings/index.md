@@ -7,7 +7,7 @@ description: "Recent learnings"
 Recently I faced a kind of challenge while writing some code in javascript. I was repeating lot of *if* conditions in my code. I am not happy about it. The code basically checks for an variable exists or not and assigns to another variable. This is to transform an object to another object.
 
 ```
-
+    
 if(s.b){
     a.b = s.b;
 }
