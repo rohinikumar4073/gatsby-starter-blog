@@ -5,19 +5,20 @@ description: "SOLID Principles"
 ---
 
 
-Today I was going through the solid principles training. I had understood key conceptsof UML notation and single responsibility principle.
+Today I was going through the solid principles training. I had understood key concepts of UML notation and SOLID principles.
 
 # UML Diagrams
 
 ## Inheritance 
 
-This is "IS A " relationship. For example Swift is a Bird. This is indicated by lollypop. 
+This is "IS A " relationship. For example Swift is a Bird. This is indicated by a lollypop symbol. 
 
 ## Assosiation
-This is a bidirectional relationship
+This is a bidirectional relationship. This is indicated by a straight line.
 
 ## Aggregation
 This is HAS A relation . If you take A and B classes. A class can exist without other class, but B will be having A.
+
 ## COMPOSITION
 This is a tight coupled HAS A relationship.
 
