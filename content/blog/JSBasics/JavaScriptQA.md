@@ -5,9 +5,24 @@ description: "This answers some questions in JavaScript"
 ---
 ## This keyword concept in JavaScript...!! 
 
-
-When do we use `this` in our code bases ?
-
+## How `this` works in our code bases ?
+Its is based on where we call and how we call 
+```
+let a = {
+    b: 6,
+    c: 7,
+    d: function() {
+        return this.b + this.c;
+    }
+}
+a.d();
+let f = a.d;
+f();
+window.b = 6;
+window.c = 8;
+f();
+```
+## When do we use `this` in our code bases ?
 ### Sample Code using this for variables
 We use the `this` keyword in cases when we would like to pass the data in the constructor and use that variables in other functions. In the below example we are passing `a` and `b` variables. This variables are used in all functions.
 ```
@@ -92,11 +107,8 @@ class SampleMapExample {
        return this.sum;
        
     }
-     
-    
 }
 let sam = new SampleMapExample([5,6]);
 let sam.add();
-```
-
+``` 
 
